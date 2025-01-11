@@ -1,6 +1,5 @@
-Here’s an updated and polished version of the README with a touch of humor:  
 
-```markdown
+
 # 🧠 Stroke Prediction Model  
 
 Predicting strokes before they strike! This project leverages machine learning to analyze health and lifestyle factors, providing a data-driven assessment of stroke risk. It’s like your personal health advisor, minus the medical degree (and the judgment).  
@@ -65,7 +64,6 @@ Ready to dive in? Here's how:
    import seaborn as sns
    import sklearn
    import tensorflow as tf
-   ```  
 
 2. **Load the dataset:**  
    ```python
