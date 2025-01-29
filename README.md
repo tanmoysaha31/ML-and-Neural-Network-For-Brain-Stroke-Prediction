@@ -1,6 +1,6 @@
 
 
-# 🧠 Stroke Prediction Model  
+# 🧠 Stroke Prediction Model    
   
 Predicting strokes before they strike! This project leverages machine learning to analyze health and lifestyle factors, providing a data-driven assessment of stroke risk. It’s like your personal health advisor, minus the medical degree (and the judgment).  
 
